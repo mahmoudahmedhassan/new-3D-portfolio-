@@ -10,6 +10,8 @@ import hodmy from "./hodmy.jpg";
 import todo from "./todo.png";
 import quiz from "./quiz.png"
 import view from "./view-demo.png"
+import metronic from "./metronic.jpg"
+import dentalHealth from "./dentalHealth.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -69,4 +71,6 @@ export {
   carrent,
   jobit,
   tripguide,
+  metronic,
+  dentalHealth
 };
