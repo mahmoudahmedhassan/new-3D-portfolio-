@@ -7,4 +7,5 @@ import Work from "./Work";
 import Feedbacks from "./Feedbacks";
 import Contact from "./Contact"; 
 import Map from "./Map";
-export {Navbar, Hero,About, Experiences,Tech,Work,Feedbacks,Contact,Map}
+import Chat from "./ChatBot";
+export {Navbar, Hero,About, Experiences,Tech,Work,Feedbacks,Contact,Map,Chat}

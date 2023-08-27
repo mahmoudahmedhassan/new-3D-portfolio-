@@ -204,3 +204,16 @@ body{
       -2.6em 0em 0 0em rgba(255, 255, 255, 0.7), -1.8em -1.8em 0 0em #ffffff;
   }
 }
+.chatBot {
+  position: fixed;
+  right : 50px;
+  float: right;
+  bottom : 90px;
+  z-index: 5000;
+  visibility: hidden;
+  }
+.show{
+  visibility: visible;
+  transition: all 0.5s ease-in-out;
+
+}

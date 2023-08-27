@@ -36,7 +36,7 @@ import alazhar from "./company/Al-Azhar.jpg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-
+import chatBot from "./chatBot.png";
 export {
   logo,
   backend,
@@ -72,5 +72,6 @@ export {
   jobit,
   tripguide,
   metronic,
-  dentalHealth
+  dentalHealth,
+  chatBot
 };
